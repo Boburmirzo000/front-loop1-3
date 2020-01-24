@@ -35,8 +35,12 @@ body{
 .simplewheel_card{
   max-width: 600px;
   margin: 100px auto 0;
-  padding: 40px 70px 200px 40px;
+  padding: 40px 70px 170px 40px;
   border-radius: 5px;
+  background-image: url("../img/bicycle.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center bottom -160px;
   background-color: #fff;
 }
 .simplewheel_card-title{
